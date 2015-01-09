@@ -1,0 +1,3 @@
+javac -g *.java -d ../bin/
+cd ../bin/; java Main "D:\\Eclipse\\workspace\\input.txt"
+makefile:23: recipe for target 'run' failed

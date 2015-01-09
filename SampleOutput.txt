@@ -1,0 +1,8 @@
+javac -g *.java -d ../bin/
+cd ../bin/; java Main "D:\\Eclipse\\workspace\\input.txt"
+Is 11 Reachable from 7 ? 
+true
+Shortest Path Edges between 7 and 11
+[Edge [from=7, to=1, weight=1], Edge [from=1, to=11, weight=1]]
+Minimum Spanning Tree Edges
+[Edge [from=1, to=2, weight=1], Edge [from=1, to=3, weight=1], Edge [from=1, to=4, weight=1], Edge [from=1, to=5, weight=1], Edge [from=1, to=6, weight=1], Edge [from=1, to=7, weight=1], Edge [from=1, to=8, weight=1], Edge [from=1, to=9, weight=1], Edge [from=3, to=10, weight=1], Edge [from=1, to=11, weight=1], Edge [from=1, to=12, weight=1], Edge [from=1, to=13, weight=1], Edge [from=1, to=14, weight=1], Edge [from=6, to=17, weight=1], Edge [from=1, to=18, weight=1], Edge [from=1, to=20, weight=1], Edge [from=1, to=22, weight=1], Edge [from=1, to=32, weight=1], Edge [from=32, to=26, weight=1], Edge [from=25, to=26, weight=1], Edge [from=3, to=28, weight=1], Edge [from=24, to=28, weight=1], Edge [from=3, to=29, weight=1], Edge [from=24, to=30, weight=1], Edge [from=27, to=30, weight=1], Edge [from=2, to=31, weight=1], Edge [from=3, to=33, weight=1], Edge [from=15, to=33, weight=1], Edge [from=16, to=33, weight=1], Edge [from=19, to=33, weight=1], Edge [from=21, to=33, weight=1], Edge [from=23, to=33, weight=1], Edge [from=9, to=34, weight=1]]
